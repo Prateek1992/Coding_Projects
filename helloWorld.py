@@ -1,0 +1,5 @@
+print("Hello world !")
+print(1+2)
+print()
+print(6*7)
+print("The End", 'or is it', "can use any quotations as long as it is consistent")
